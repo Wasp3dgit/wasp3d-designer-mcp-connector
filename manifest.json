@@ -1,0 +1,21 @@
+{
+  "dxt_version": "0.1",
+  "name": "wasp3d-designer",
+  "display_name": "WASP3D Designer",
+  "version": "1.0.0",
+  "description": "Create and modify WASP3D Designer broadcast graphics scenes using natural language prompts. Control scene objects, materials, templates, variables, and animations — all from Claude Desktop.",
+  "author": {
+    "name": "Beehive Systems Ltd",
+    "url": "https://github.com/Wasp3dgit"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "server": {
+    "type": "node",
+    "entry_point": "index.js",
+    "mcp_config": {
+      "command": "node",
+      "args": ["${__dirname}/index.js"]
+    }
+  }
+}
