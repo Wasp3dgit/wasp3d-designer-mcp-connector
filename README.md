@@ -17,7 +17,7 @@ Control **WASP3D Designer** broadcast graphics with natural language via Claude 
 Once listed, click **Install** directly from within Claude Desktop — no file download needed.
 
 ### Manual Install
-1. Download `wasp3d-mcpb.mcpb` from the [Releases](../../releases) page
+1. Download `wasp3d-mcpb.mcpb` from the [Releases](https://github.com/Wasp3dgit/wasp3d-designer-mcp-connector/releases) page
 2. Open Claude Desktop → **Settings → Extensions → Install Extension**
 3. Select the `.mcpb` file
 4. Launch WASP3D Designer before starting a conversation
